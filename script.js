@@ -1175,6 +1175,22 @@ const data = {
     ],
     Technologies: [
       {
+        title: "RED-LIGHT THERAPY – START-UP SESSION",
+        durations: [
+          { time: "10 minutes", price: "200 SAR" },
+        ],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "An introductory Red-Light Therapy session designed to prepare the skin and body for the full benefits of Red Wave Pure & Plus technology. This quick session helps support relaxation, boost circulation, enhance skin freshness, and introduce the body to the wellness and recovery benefits of Red-Light Therapy. Ideal for first-time guests."
+      },
+      {
+        title: "RED-LIGHT THERAPY – SINGLE SESSION",
+        durations: [
+          { time: "20 minutes", price: "350 SAR" },
+        ],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "A rejuvenating Red-Light Therapy treatment using Red Wave Pure & Plus technology to support skin glow, collagen stimulation, circulation, recovery, and overall wellness. This session also helps reduce water retention while promoting healthier-looking, radiant skin and full-body relaxation."
+      },
+      {
         title: "INDIBA FACIAL",
         durations: [
           { time: "45 minutes", price: "750 SAR" },
