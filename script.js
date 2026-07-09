@@ -285,6 +285,7 @@ const data = {
     Technologies: [
       {
         title: "RED-LIGHT THERAPY – START-UP SESSION",
+        isNew: true,
         durations: [
           { time: "10 minutes", price: "200 SAR" },
         ],
@@ -293,6 +294,7 @@ const data = {
       },
       {
         title: "RED-LIGHT THERAPY – SINGLE SESSION",
+        isNew: true,
         durations: [
           { time: "20 minutes", price: "350 SAR" },
         ],
@@ -1176,6 +1178,7 @@ const data = {
     Technologies: [
       {
         title: "RED-LIGHT THERAPY – START-UP SESSION",
+        isNew: true,
         durations: [
           { time: "10 minutes", price: "200 SAR" },
         ],
@@ -1184,6 +1187,7 @@ const data = {
       },
       {
         title: "RED-LIGHT THERAPY – SINGLE SESSION",
+        isNew: true,
         durations: [
           { time: "20 minutes", price: "350 SAR" },
         ],
@@ -1645,7 +1649,12 @@ function buildCards() {
 
     card.innerHTML = `
       <div class="card-header header-row">
-        <strong class="card-title">${item.title}</strong>
+
+        <div class="title-wrap-column">
+          ${item.isNew ? '<span class="new-badge-top">NEW</span>' : ''}
+          <strong class="card-title">${item.title}</strong>
+        </div>
+
         ${item.durations && item.durations.length
         ? `<span class="header-price">
               ${item.durations.map(d => d.time + ' – ' + d.price).join(' | ')}

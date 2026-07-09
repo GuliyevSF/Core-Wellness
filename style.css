@@ -69,6 +69,22 @@ body {
   z-index: -1;
 }
 
+/* word 'new' css style */
+.title-wrap-column {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.new-badge-top {
+  color: #ff4d4d;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 2px;
+}
+
 /* Spa Membership bashlangicc */
 /* ===== HERO ===== */
 
