@@ -141,13 +141,17 @@ const teamData = [
     img: "./assets/team/Team/Jean.png",
     nationality: "Filipino",
     role: "Nail Technician",
-    specializations: "Russian Manicure, Nail Art, Nail Shaping & Detailing",
+    specializations: "BIAB Specialized, Russian Manicure, and Advanced Nail Artistry.",
     qualification: [
-      "BIAB, Sculpted Nails, Gel Manicure, Pedicure",
-      "Russian Manicure & Nail Art",
-      "Skin Care",
+      "BIAB Expert & Nail Strengthening",
+      "Nail Extensions (Classic & Advanced Techniques): Soft Gel, Poly Gel",
+      "Russian Manicure, Cat’s Eye, Chrome Painting",
+      "Minimalist & Elegant Nail Art",
+      "Classic & Spa Pedicure",
+      "Professional Eyebrow Threading",
+      "Precise, Hygienic Care",
     ],
-    summary: "I’m Ana Guardia, a professional nail artist from San Juan, Argentina. My passion for beauty began at 16 when I started practicing makeup and discovered my true calling — nail art. I love mixing colors and creating unique designs to achieve each client’s dream look, always with care and professionalism. With a degree in Surgical Instrumentation, I ensure proper sterilization and a clean, safe workspace."
+    summary: "Born and raised in the Philippines, Jean is a professional Nail Technician with 9 years of high-end salon experience. Known for exceptional attention to detail, strict sanitation, and a jolly personality, she strives to provide the best service and highest client satisfaction."
   },
 
   // istədiyin qədər əlavə edə bilərsən
