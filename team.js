@@ -134,21 +134,21 @@ const teamData = [
     ],
     summary: "Born and raised in the Philippines, I have gained interest in hairstyling since I have joined Core Wellness Club. Trained under the guidance of veteran hairstylists my passion has grown a lot. I have been enriching my profession by participating in training, product launching and seminars."
   },
-  // {
-  //   id: 8,
-  //   gender: "female",
-  //   name: "Jean",
-  //   img: "./assets/team/Team/Anita.webp",
-  //   nationality: "Filipino",
-  //   role: "Nail Technician",
-  //   specializations: "Russian Manicure, Nail Art, Nail Shaping & Detailing",
-  //   qualification: [
-  //     "BIAB, Sculpted Nails, Gel Manicure, Pedicure",
-  //     "Russian Manicure & Nail Art",
-  //     "Skin Care",
-  //   ],
-  //   summary: "I’m Ana Guardia, a professional nail artist from San Juan, Argentina. My passion for beauty began at 16 when I started practicing makeup and discovered my true calling — nail art. I love mixing colors and creating unique designs to achieve each client’s dream look, always with care and professionalism. With a degree in Surgical Instrumentation, I ensure proper sterilization and a clean, safe workspace."
-  // },
+  {
+    id: 8,
+    gender: "female",
+    name: "Jean",
+    img: "./assets/team/Team/Jean.png",
+    nationality: "Filipino",
+    role: "Nail Technician",
+    specializations: "Russian Manicure, Nail Art, Nail Shaping & Detailing",
+    qualification: [
+      "BIAB, Sculpted Nails, Gel Manicure, Pedicure",
+      "Russian Manicure & Nail Art",
+      "Skin Care",
+    ],
+    summary: "I’m Ana Guardia, a professional nail artist from San Juan, Argentina. My passion for beauty began at 16 when I started practicing makeup and discovered my true calling — nail art. I love mixing colors and creating unique designs to achieve each client’s dream look, always with care and professionalism. With a degree in Surgical Instrumentation, I ensure proper sterilization and a clean, safe workspace."
+  },
 
   // istədiyin qədər əlavə edə bilərsən
 
