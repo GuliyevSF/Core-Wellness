@@ -59,12 +59,16 @@ const teamData = [
     id: 4,
     gender: "female",
     name: "Siri",
-    img: "./assets/team/Team/Clara.webp",
+    img: "./assets/team/Team/Siri.png",
     nationality: "Thai",
     role: "Spa therapist",
-    specializations: "COMING SOON",
-    qualification: "",
-    summary: ""
+    specializations: "Thai Traditional Massage, Advance Technology Machine, Advanced Massage Therapy, Specialized Facial Treatments, Body Scrubs and Wraps,",
+    qualification: [
+      "Thai Traditional Massage – The Boonliang Thai Traditional Massage Center, Thailand",
+      "Aromatherapy Massage Course (60 Hours) atThai Traditional Medical Services Society of Klongluang, Pathum Thani, Thailand",
+      "Thai Massage (372 Hours)at Thai Traditional Medicine Association of Thailand",
+    ],
+    summary: "Experienced Spa Therapist with over 15 years in luxury hospitality across Asia and the Middle East. Passionate about delivering personalized, high-end treatments that promote deep relaxation, muscle recovery, and long-term well-being. Beyond hands-on therapy, I specialize in educating clients on tailored self-care routines to extend the benefits of each session. Dedicated to ensuring peak guest satisfaction, upholding pristine operational standards, and bringing authentic care to every treatment."
   },
   {
     id: 5,
