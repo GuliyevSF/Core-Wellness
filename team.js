@@ -55,17 +55,17 @@ const teamData = [
     ],
     summary: "Born in Tunisia and raised between Tunisia and Algeria, Racha discovered her passion for beauty and wellness early on, fascinated by how human touch and technology can restore both body and mind. Certified in physiotherapy from the Swiss Tunisian Center and trained in advanced skincare and wellness technologies, she brings over a decade of experience in holistic care. Her career across CORE, Lamast, and Yamami Compound has shaped her mastery of massage techniques such as Deep Tissue, Madero Therapy, Lymphatic Drainage, and Hot Stone, alongside expertise in modern treatments including Cryotherapy, Indiba, Venus Legacy, and Hyperbaric Oxygen therapy. Driven by empathy and precision, Racha’s philosophy centers on harmony, confidence, and well-being, helping every client leave with renewed balance and inner calm."
   },
-  // {
-  //   id: 4,
-  //   gender: "female",
-  //   name: "Clara",
-  //   img: "./assets/team/Team/Clara.webp",
-  //   nationality: "Italian",
-  //   role: "Spa therapist",
-  //   specializations: "",
-  //   qualification: "",
-  //   summary: ""
-  // },
+  {
+    id: 4,
+    gender: "female",
+    name: "Siri",
+    img: "./assets/team/Team/Clara.webp",
+    nationality: "Italian",
+    role: "Spa therapist",
+    specializations: "",
+    qualification: "",
+    summary: ""
+  },
   {
     id: 5,
     gender: "female",

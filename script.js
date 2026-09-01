@@ -4,8 +4,8 @@ const data = {
       {
         title: "Swedish Massage",
         durations: [
-          { time: "60 minutes", price: "700 SAR" },
-          { time: "90 minutes", price: "920 SAR" }
+          { time: "60 minutes", price: "500 SAR" },
+          { time: "90 minutes", price: "700 SAR" }
         ],
         short: "Focus: Peak Performance, Regeneration",
         full: "The Swedish body massage is a combination of many different techniques rolled into one session. Your therapist will utilize smooth, long strokes with light to moderate pressure, helping to reduce stress, relax muscles, improve circulation, and stimulate the skin and nervous system."
@@ -13,8 +13,8 @@ const data = {
       {
         title: "Deep Tissue Massage",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
-          { time: "90 minutes", price: "975 SAR" }
+          { time: "60 minutes", price: "600 SAR" },
+          { time: "90 minutes", price: "800 SAR" }
         ],
         short: "Focus: Peak Performance, Regeneration",
         full: "Designed to target deep-seated muscle tension, this therapeutic massage technique uses firm pressure and slow strokes to alleviate stress and release chronic knots. Your therapist will customize the massage to your specific needs, focusing on areas of tension and restoring your body’s balance and vitality."
@@ -22,7 +22,7 @@ const data = {
       {
         title: "Head, Neck & Back Massage",
         durations: [
-          { time: "30 minutes", price: "400 SAR" },
+          { time: "30 minutes", price: "300 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Let yourself melt away with this deeply relaxing head, neck, and back massage targeting stress relief and key areas of muscle tension. Feel renewed and refreshed."
@@ -30,7 +30,7 @@ const data = {
       {
         title: "Foot Massage",
         durations: [
-          { time: "30 minutes", price: "400 SAR" },
+          { time: "30 minutes", price: "300 SAR" },
         ],
         short: "Focus: Peak Performance",
         full: "Sit back and relax as you enjoy a decadent foot massage, designed to release tension in the lower legs and feet. A perfect treatment to help the body unwind, improve blood circulation, lower blood pressure, and rejuvenate tired feet. Excellent for after work or post travel."
@@ -38,8 +38,8 @@ const data = {
       {
         title: "CORE Signature Massage",
         durations: [
-          { time: "60 minutes", price: "1050 SAR" },
-          { time: "90 minutes", price: "1375 SAR" }
+          { time: "60 minutes", price: "800 SAR" },
+          { time: "90 minutes", price: "1100 SAR" }
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "A fusion massage that seamlessly blends together various massage techniques custom-designed and adapted to meet your physical needs and preferences. Our most popular service. Only available at CORE Wellness."
@@ -47,7 +47,7 @@ const data = {
       {
         title: "Lymphatic Drainage",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "Using gentle, repetitive strokes to facilitate the movement of fluids around the body, helping to remove toxins from the body’s tissues. This massage can also aid in the prevention of swelling after injury or surgery and is known to provide a major boost to the health of your immune system. Lymphatic drainage is very effective for cases of oedema and reduces cellulite. It is highly recommended as a treatment after flying, following illness and post pregnancy"
@@ -55,7 +55,7 @@ const data = {
       {
         title: "Sports Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration",
         full: "The application of sports massage prior to and after exercise is shown to enhance performance, aid recovery, and prevent injury. Your therapist will provide a personalized massage designed to assist in correcting issues and imbalances in the soft tissue that are caused by repetitive and strenuous physical activity and trauma."
@@ -63,7 +63,7 @@ const data = {
       {
         title: "Thai Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "The dynamic technique of traditional Thai massage adopts full-body manipulation that focuses on deep tissue pressure, muscle and joint stretching, body alignment, and adjustment. Known to lower stress, boost energy and improve athletic performance."
@@ -71,7 +71,7 @@ const data = {
       {
         title: "Anti-Cellulite Massage",
         durations: [
-          { time: "45 minutes", price: "625 SAR" },
+          { time: "45 minutes", price: "550 SAR" },
         ],
         short: "Focus: Weight Management, Regeneration, Appearance",
         full: "This specially designed massage will eliminate cellulite over a period of continued therapy. It affects the breaking down of fat buildup and strengthens connective tissue at the affected areas, while increasing oxygenated blood circulation."
@@ -79,8 +79,8 @@ const data = {
       {
         title: "Hot Stone Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
-          { time: "90 minutes", price: "920 SAR" }
+          { time: "60 minutes", price: "600 SAR" },
+          { time: "90 minutes", price: "760 SAR" }
         ],
         short: "Focus: Regeneration, Appearance",
         full: "A restorative massage performed with smooth, warmed mineralized stones. You will achieve deep muscle relaxation through the placement of soothing, heated aromatic stones along pressure points on the body, whilst your therapist performs muscle manipulations that will melt away all tension and stress."
@@ -88,7 +88,7 @@ const data = {
       {
         title: "Pregnancy Massage",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Regeneration",
         full: "Enjoy a customized prenatal massage to help alleviate aches and pains associated with being pregnant. It aims to release tense muscles, ease sore spots, reduce swelling, and improve your circulation and mobility. After this massage, you will feel comfortable and have a sense of mental and physical relaxation."
@@ -96,7 +96,7 @@ const data = {
       {
         title: "Reflexology",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "650 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration",
         full: "This ancient methodical practice stimulates the reflex points of the feet, relaxing and rejuvenating each and every part of the body. Using kneading and activating techniques, which metabolize and eliminate toxins, improve circulation, raise energy levels, and calm the nervous system. It will help reduce anxiety and stress and dissipate tension throughout your entire body."
@@ -104,7 +104,7 @@ const data = {
       {
         title: "Warm Bamboo Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Utilizing heated bamboo tools of various shapes and sizes, this holistic therapy will achieve deep tissue manipulation without causing discomfort, providing deep relaxation and releasing muscle tension. Proven to relieve migraines, alleviate joint and arthritic pain, and stimulate cellular activity to repair and intensely nourish the skin."
@@ -112,7 +112,7 @@ const data = {
       {
         title: "Maderotherapy",
         durations: [
-          { time: "45 minutes", price: "700 SAR" },
+          { time: "45 minutes", price: "580 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "This invigorating, holistic massage technique uses a variety of wooden tools and rolling pins designed to provide more intense pressure on fibrous cellulite and improve the appearance of cellulite and stimulate collagen production. Fat deposits and toxins are removed, and regular treatments will tone the body and give a lift-up effect. "
@@ -120,7 +120,7 @@ const data = {
       {
         title: "Aromatherapy Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "700 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Combining the power of essential oils with massage therapy to de-stress and recharge. Using rhythmic strokes, the oils are absorbed through the skin. Your therapist will choose a personalized blend of oils to impart benefits to both your body and mind. These include improving your mood, soothing sore muscles, and detoxifying the body."
@@ -128,7 +128,7 @@ const data = {
       {
         title: "Indian Head Massage",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "This ancient methodical practice stimulates the reflex points of the feet, relaxing and rejuvenating each and every part of the body. Using kneading and activating techniques which metabolize and eliminate toxins, improve circulation, raise energy levels, and calm the nervous system. It will help reduce anxiety and stress and dissipate tension throughout your entire body."
@@ -143,7 +143,7 @@ const data = {
       {
         title: "CLARIFYING PURITY RITUAL",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "This treatment cleans deeply to decongest the skin and tighten pores. A gentle face exfoliation with our White Glacier Face Peeling is used to remove impurities, and to close the pores and reduce the sebum secretion, leaving the skin looking and feeling fresh. The skin regains its natural balance thanks to our Purity Lotion, Alpine Purity Mask and Hydra Balance Face Cream."
@@ -151,7 +151,7 @@ const data = {
       {
         title: "SKIN COMFORT NOURISHING RITUAL)",
         durations: [
-          { time: "60 minutes", price: "850 SAR" },
+          { time: "60 minutes", price: "710 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "From the Swiss Alps, our soothing and nourishing honey is extracted directly from the hive. This journey commences with a deep cleansing and exfoliation using the black pearl face peeling. A rejuvenating massage, followed by an application of a nourishing rich serum and essential oils, will combat the signs of aging. An extra dose of vitamins and trace elements with our royal jelly contained in the Royal Mask will turn back the hands of time. Your skin feels nourished, hydrated and signs of aging are diminished."
@@ -159,7 +159,7 @@ const data = {
       {
         title: "RENEWAL ELIXIR",
         durations: [
-          { time: "90 minutes", price: "975 SAR" },
+          { time: "90 minutes", price: "810 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Stimulating the skin from the inside out, the ultrasound waves will boost the natural collagen and elastin production. A firmer, smoother and more uniform complexion is then obtained through the repairing effect of the Collagen Mask, made by biotechnology, as well as the firming effect of the acacia collagen cream."
@@ -167,7 +167,7 @@ const data = {
       {
         title: "ROYAL REPAIR TREATMENT",
         durations: [
-          { time: "90 minutes", price: "1100 SAR" },
+          { time: "90 minutes", price: "950 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Using the latest technology in skin care, this treatment suits particularly skin in need of a regenerative boost. The ultrasound waves penetrate on a cellular level with an intense dose of the green caviar, the extracted pearls from Okinawa Island finely combined with the antioxidant power of the gold trace elements to repair and revamp the skin."
@@ -175,7 +175,7 @@ const data = {
       {
         title: "ANTIOXIDANT BRIGHTENING INFUSION",
         durations: [
-          { time: "90 minutes", price: "1375 SAR" },
+          { time: "90 minutes", price: "1200 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "This facial uses pearls of pure Vitamin C, glycolic acid and fruit acids to reduce pigmentation and harmonize your skin tone, with a boost of radiance. The soft peeling it induces will help the first skin layers regenerate and fine wrinkles fade. The oxidative power of the products used will contribute to protect your skin from radicals."
@@ -183,7 +183,7 @@ const data = {
       {
         title: "CORE SIGNATURE FACIAL",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
+          { time: "60 minutes", price: "850 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Proven to detoxify the skin, stimulate cells responsible for collagen production, soften wrinkles and reduce fine lines, whilst also relieving facial muscle tension and promotes oxygen- rich blood circulation. Facial cupping offers an all in one complexion refresh and renewal."
@@ -198,21 +198,21 @@ const data = {
       {
         title: "LEG REFRESH & DRAINAGE THERAPY",
         durations: [
-          { time: "30 minutes", price: "400 SAR" },],
+          { time: "30 minutes", price: "330 SAR" },],
         short: "Focus: Peak Performance",
         full: "Experience the ultimate leg treatment designed to reduce water retention, deeply hydrate, and provide complete relaxation. Our approach combines lymphatic drainage techniques and Brown Seaweed, rich in minerals and trace elements, with a collection of essential oils to decongest and provide a cooling effect."
       },
       {
         title: "SILHOUETTE SCULPT & LIFT",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },],
+          { time: "60 minutes", price: "620 SAR" },],
         short: "Focus: Regeneration, Appearance",
         full: "A luxurious and results-driven body contouring treatment that begins with Ultrasound Liposculpture, which targets localized fat deposits and stimulates lymphatic drainage for a sculpted silhouette. Next, Dermo-massage enhances circulation, smooths cellulite, and firms the skin using a specialized vacuum and rolling technique. The treatment concludes with a CryoFit Lotion massage, delivering an invigorating cooling effect to tighten, tone, and refresh the skin. Ideal for those seeking a slimmer, firmer, and more refined body shape while promoting detoxification and skin rejuvenation"
       },
       {
         title: "SCULPTURE WOOD SLIMMING TREATMENT",
         durations: [
-          { time: "60 minutes", price: "850 SAR" },
+          { time: "60 minutes", price: "700 SAR" },
         ],
         short: "Focus: Weight Management, Appearance",
         full: "Proven an effective slimming treatment, the wooden sculpture tools are used to break down fat and reduced cellulites. Regular treatments will create a significant toning and sculpting effect, specially at the midriff, thigh and gluts. On request, measurement can be taken to monitor the fat loss and change in body shape and contour."
@@ -220,23 +220,23 @@ const data = {
       {
         title: "PURITY BODY DETOX RITUAL",
         durations: [
-          { time: "90 minutes", price: "900 SAR" },
+          { time: "90 minutes", price: "700 SAR" },
         ],
         short: "Focus: Weight Management, Appearance",
         full: "The treatment starts with a total body peeling using our therapeutic Purifying Swiss Alps Salts drawn from the Swiss Aletsch glacier, which is rich in therapeutical minerals, reducing water retention and improving blood circulation. The peeling is then followed by a detoxifying and purifying Fucus Algae Remineralizing Wrap. This subtle combination of fresh fucus and lithothamnium is ideal for an effective drainage and an abundant remineralization and revitalization of the body. A 30 min massage with our Precious Body Oil enriched with the Fit Body Booster will relax tensions while eliminating toxins and restoring balance to the skin"
       },
-      {
-        title: "CORE SIGNATURE BODY TREATMENT",
-        durations: [
-          { time: "60 minutes", price: "1020 SAR" },
-        ],
-        short: "Focus: Peak Performance, Regeneration",
-        full: "A fully personalized Oriental bathing ritual to stimulate your senses, with nourishing treatments, unique strokes and soothing aromas. You may choose from any of our natural bathing products. Your therapist will create a bespoke bathing and massage ritual designed just for you. This treatment includes shampoo and a premium hair mask from our Kerastase range."
-      },
+      // {
+      //   title: "CORE SIGNATURE BODY TREATMENT",
+      //   durations: [
+      //     { time: "60 minutes", price: "1020 SAR" },
+      //   ],
+      //   short: "Focus: Peak Performance, Regeneration",
+      //   full: "A fully personalized Oriental bathing ritual to stimulate your senses, with nourishing treatments, unique strokes and soothing aromas. You may choose from any of our natural bathing products. Your therapist will create a bespoke bathing and massage ritual designed just for you. This treatment includes shampoo and a premium hair mask from our Kerastase range."
+      // },
       {
         title: "BODY CUPPING",
         durations: [
-          { time: "60 minutes", price: "975 SAR" },
+          { time: "60 minutes", price: "800 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "This powerfull techinique is based on myofacial decompression and works by drawing blood to or away from specific parts of the body. It can be used on any part of the body to relieve pain, aid in muscle recovery, lower blood pressure, reduced stress, treat migranes and soften scar tissue. It is also an effective tool to release stored up toxins from body tissue or organ."
@@ -244,7 +244,7 @@ const data = {
       {
         title: "DRAINAGE LYMPHATIC WOOD",
         durations: [
-          { time: "60 minutes", price: "925 SAR" },
+          { time: "60 minutes", price: "700 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "Targeting specific lymphatic points in the body, using a variety of special wooden tools. This targeted technique draws out up to 80% of toxins from the body, whilst cellulite and fat deposits are dissolved. The deep internal cleansing effect helps to relieve and heal the symptoms associated with stomach digestion and colon issues."
@@ -252,7 +252,7 @@ const data = {
       {
         title: "HERBAL BATH",
         durations: [
-          { time: "75 minutes", price: "925 SAR" },
+          { time: "75 minutes", price: "750 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Applying ancient healing and herbal medicine principles, your therapist will specially prepare mix of herb and products for relief from specific ailment, pain , injuries and to aid recovery. Those with acne and skin issues will see results after just few sessions, whilst those who have joint issues internal complaints or are highly active in training will find the deep penetration of the herb during the bathing ritual instantly beneficial."
@@ -260,7 +260,7 @@ const data = {
       {
         title: "MOROCCAN BATH",
         durations: [
-          { time: "75 minutes", price: "925 SAR" },
+          { time: "75 minutes", price: "650 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Enjoy a moroccan Bath Ritual in our specially designed suite, encompassing a marble heated bed and personal steam and shower room. Adopting the ancient principles, your body will be deeply purified and detoxified, focusing on cleansing the body, revitalizing the skin and promoting relaxation. Your skin will feel incredibly healthy and moisturized."
@@ -268,7 +268,7 @@ const data = {
       {
         title: "TURKISH BATH",
         durations: [
-          { time: "75 minutes", price: "925 SAR" },
+          { time: "75 minutes", price: "650 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Using traditional natural products infused with Green Tea, this gentle and luxurious bathing ritual will have you feeling completely pampered and spoilt. Using softer movement and pressure, dead skin is removed, the skin tone becomes unified and the whole body and hair is deeply moisturized, using a specialized foam massage techinique. A perfect choice for head to toe pampering session, to relieve stess or if your have sensitive skin."
@@ -276,7 +276,7 @@ const data = {
       {
         title: "CORE SIGNATURE BATH",
         durations: [
-          { time: "90 minutes", price: "1100 SAR" },
+          { time: "90 minutes", price: "900 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "A fully personalized oriental bathing ritual to stimulate your senses with nourishing treatment, unique strokes, and soothing aromas. You may choose any of our natural bathing products. Your therapist will create a bespoke bathing and massage ritual designed just for you. This treatment includeds shampoo and premium hair mask from our Kerastase range"
@@ -304,7 +304,7 @@ const data = {
       {
         title: "INDIBA FACIAL",
         durations: [
-          { time: "45 minutes", price: "750 SAR" },
+          { time: "45 minutes", price: "550 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "This exclusive and patented technology is used for full facial rejuvenation. It helps to regenerate collagen and elastin fibres, plump the skin, reduce wrinkles and improve the signs of aging. It combines hydro-dermabrasion, electroporation, and low frequency electrotherapy to elevate the skin to a new level."
@@ -312,7 +312,7 @@ const data = {
       {
         title: "INDIBA RECOVERY",
         durations: [
-          { time: "60 minutes", price: "875 SAR" },
+          { time: "60 minutes", price: "650 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Advanced tissue repair for accelerated healing. A personalised manual technique where the therapist focuses action on specific sof and hard tissue types for a bespoke treatment programme. Highly effective for rehabilitation and recovery after surgery, for chronic conditions, acute injuries and pain reduction."
@@ -320,8 +320,8 @@ const data = {
       {
         title: "TRUSCULPT",
         durations: [
-          { time: "1 Muscle Group", price: "925 SAR" },
-          { time: "2 Muscle Group", price: "1250 SAR" }
+          { time: "1 Muscle Group", price: "700 SAR" },
+          { time: "2 Muscle Group", price: "1000 SAR" }
         ],
         short: "Focus: Regeneration, Appearance",
         full: "The latest in non – invasive muscle sculpting technology that is truly revolutionary. This painless, non-surgical body contouring technique helps you to sculpt your muscle to get a fit and toned appearance. The treatment is fully customised to treat one or more areas simultaneously to quickly see results."
@@ -329,7 +329,7 @@ const data = {
       {
         title: "LINFOPRESS",
         durations: [
-          { time: "30 minutes", price: "350 SAR" },
+          { time: "30 minutes", price: "300 SAR" },
         ],
         short: "Focus: Weight Management, Regeneration, Appearance",
         full: "The latest in pressotherapy which uses a combination of eight differentiated-sector pressure elements and advanced compression that activates the circulatory and lymphatic system in a simple, quick and effective way. Recommended for cellulite reduction, weight loss, slimming and detoxifying."
@@ -337,7 +337,7 @@ const data = {
       {
         title: "REMODELING FACE - TECH ADD-ON",
         durations: [
-          { time: "30 minutes", price: "350 SAR" },
+          { time: "30 minutes", price: "290 SAR" },
         ],
         short: "",
         full: "To optimized the result of our treatment, an advanced bioelectric treatment that combines the power of the three currents ( Galvanic, medium and high frequency) for immediate and long – lasting results."
@@ -345,17 +345,17 @@ const data = {
       {
         title: "CRYOTHERAPY",
         durations: [
-          { time: "15 minutes", price: "400 SAR" },
+          { time: "15 minutes", price: "300 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "Instantly feel the transformative effect of entering our sub-zero temperature whole-body cryotherapy chamber. This treatment creates full body rejuvenation, endorphin release, calorie burn and weight loss. You will see improvements in skin conditions and find a significantly reduced recovery time after workouts or injury."
       },
       {
-        title: "OXYGEN THERAPY (AirPod Propel)",
+        title: "Air Pod (Oxygen chamber)",
         durations: [
-          { time: "30 minutes", price: "575 SAR" },
-          { time: "60 minutes", price: "745 SAR" },
-          { time: "90 minutes", price: "1150 SAR" },
+          { time: "30 minutes", price: "350 SAR" },
+          { time: "60 minutes", price: "550 SAR" },
+          { time: "90 minutes", price: "850 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "The AirPod takes the benefits of oxygen therapy to a new level. Oxygen is delivered through increased atmospheric pressure in a personal pod. This cutting-edge wellness technology strengthens the foundation for general health by promoting relaxation, improving sleep quality, reducing stress and boosting energy output. It also provides vital recovery benefits by accelerating repair processes in the body, boosting concentration, circulation and clarity."
@@ -363,7 +363,7 @@ const data = {
       {
         title: "Caracalla (Hydrotherapy)",
         durations: [
-          { time: "25 minutes", price: "450 SAR" },
+          { time: "25 minutes", price: "300 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Harnessing the force of water jets into a focused stream creates a deep, wide band of pressure for therapeutic, manipulative penetration and myofascial release. This increases flexibility, improves recovery, strengthens and heals injured tissues through improved circulation."
@@ -371,7 +371,7 @@ const data = {
       {
         title: "HYDRACOOL",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "The exclusive and patented technology is used for full facial rejuvenation. It helps to regenerate collagen and elastin fibres, plump the skin, reduce wrinkles and improved signs of aging. It combines Hydro-dermabrassion, electroporation, LED and low frequency electrotherapy."
@@ -379,40 +379,40 @@ const data = {
       {
         title: "SCOTTISH SHOWER",
         durations: [
-          { time: "30 minutes", price: "300 SAR" },
+          { time: "30 minutes", price: "250 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "Scottish shower increase resistance to temperature difference, positively affecting the metabolism and stimulating the immune system. Treatment improves blood circulation and immunity mechanism responses, activates the metabolism ,increase physical and mental resistance and its has a beneficial effect on imbalances of the vegetative nervous system."
       },
-      {
-        title: "NUVOLA DRY FLOATATION",
-        durations: [
-          { time: "30 minutes", price: "450 SAR" },
-        ],
-        short: "Focus: Regeneration, Appearance",
-        full: "This is a truly unique experience where you lie in a soft, warm membrane, staying completely dry whilst experiencing water therapy, deep relaxation through weightlessness and cacooning. Gentle vibration massage your body, releasing muscle tension and body aches."
-      },
-      {
-        title: "ULTIMATE NUVOLA EXPERIENCE",
-        durations: [
-          { time: "45 minutes", price: "700 SAR" },
-        ],
-        short: "Focus: Weight Management, Regeneration, Appearance",
-        full: "Experience a new dimension in aesthetic beauty and overall wellness with a combination of Body Sculpt, Lymphatic Pumping and Dry Floatation. Ideal to decrease chronic fatique, irritability, insonmia, muscle weakness and aid recovery."
-      },
-      {
-        title: "REVITAL DETOX PROGRAM",
-        durations: [
-          { time: "90 minutes", price: "1200 SAR" },
-        ],
-        short: "Focus: Weight Management, Regeneration, Appearance",
-        full: "This 3-Step therapy offers a tailored plan to help you lose weight and increase your fitness level. Combining a water massage, followed by mud therapy performed on our Nuvola dry floatation bed and ending with an invigorating Scottish Shower. Designed to stimulate fat loss, enhance circulation and boost the immune system. Ideal to reduce volume of thighs, back and abdomen and targets cellulite build-up."
-      },
+      // {
+      //   title: "NUVOLA DRY FLOATATION",
+      //   durations: [
+      //     { time: "30 minutes", price: "450 SAR" },
+      //   ],
+      //   short: "Focus: Regeneration, Appearance",
+      //   full: "This is a truly unique experience where you lie in a soft, warm membrane, staying completely dry whilst experiencing water therapy, deep relaxation through weightlessness and cacooning. Gentle vibration massage your body, releasing muscle tension and body aches."
+      // },
+      // {
+      //   title: "ULTIMATE NUVOLA EXPERIENCE",
+      //   durations: [
+      //     { time: "45 minutes", price: "700 SAR" },
+      //   ],
+      //   short: "Focus: Weight Management, Regeneration, Appearance",
+      //   full: "Experience a new dimension in aesthetic beauty and overall wellness with a combination of Body Sculpt, Lymphatic Pumping and Dry Floatation. Ideal to decrease chronic fatique, irritability, insonmia, muscle weakness and aid recovery."
+      // },
+      // {
+      //   title: "REVITAL DETOX PROGRAM",
+      //   durations: [
+      //     { time: "90 minutes", price: "1200 SAR" },
+      //   ],
+      //   short: "Focus: Weight Management, Regeneration, Appearance",
+      //   full: "This 3-Step therapy offers a tailored plan to help you lose weight and increase your fitness level. Combining a water massage, followed by mud therapy performed on our Nuvola dry floatation bed and ending with an invigorating Scottish Shower. Designed to stimulate fat loss, enhance circulation and boost the immune system. Ideal to reduce volume of thighs, back and abdomen and targets cellulite build-up."
+      // },
       {
         title: "MLX I3DOME",
         durations: [
-          { time: "MLX I3Dome Body", price: "625 SAR" },
-          { time: "MLX I3Dome Face & Body", price: "925 SAR" },
+          { time: "MLX I3Dome Body", price: "520 SAR" },
+          { time: "MLX I3Dome Face & Body", price: "700 SAR" },
 
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
@@ -421,7 +421,7 @@ const data = {
       {
         title: "VENUS LEGACY (BODY)",
         durations: [
-          { time: "30 minutes", price: "1180 SAR" },
+          { time: "30 minutes", price: "650 SAR" },
         ],
         short: "Focus: Weight Management",
         full: "This advanced non invasive body contouring treatment seamlessly combines multi polar RF, PEMF, and VariPulse™ suction to deliver therapeutic heat deep into skin and fat layers. Expect firmer, tighter skin, noticeable reduction of cellulite, and a slimmer, more sculpted silhouette. Enhanced lymphatic drainage and blood circulation lead to smoother contours and revitalized texture, all in a comfortable massage like experience—with no downtime."
@@ -429,7 +429,7 @@ const data = {
       {
         title: "VENUS LEGACY (FACE)",
         durations: [
-          { time: "20 minutes", price: "850 SAR" },
+          { time: "20 minutes", price: "500 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "This gentle facial treatment utilizes the same powerful RF + PEMF + VariPulse™ technology within a compact applicator designed for delicate zones. It revitalizes skin by improving elasticity and firmness, softens fine lines and wrinkles, and enhances facial and neck contours. Boosted circulation and lymph flow help reduce puffiness and promote a brighter, more radiant complexion—all during a soothing, effortless treatment with no recovery time needed."
@@ -450,8 +450,8 @@ const data = {
         short: "",
         durations: [
           { time: "Short - 35 minutes", price: "300 SAR" },
-          { time: "Medium - 35 minutes", price: "300 SAR" },
-          { time: "Long - 45 minutes", price: "300 SAR" },
+          { time: "Medium - 35 minutes", price: "375 SAR" },
+          { time: "Long - 45 minutes", price: "550 SAR" },
         ],
         full: ""
       },
@@ -506,8 +506,8 @@ const data = {
       {
         title: "ROOT COLOUR",
         durations: [
-          { time: "Medium - 60 minutes", price: "425 SAR" },
-          { time: "Long - 60 minutes", price: "550 SAR" },
+          { time: "Medium - 60 minutes", price: "300 SAR" },
+          { time: "Long - 60 minutes", price: "400 SAR" },
         ],
         short: "",
         full: ""
@@ -515,7 +515,7 @@ const data = {
       {
         title: "CURLY CUT &STYLE",
         durations: [
-          { time: "90 minutes", price: "625 SAR" },
+          { time: "90 minutes", price: "600 SAR" },
         ],
         short: "",
         full: ""
@@ -547,7 +547,7 @@ const data = {
       {
         title: "SHORT CUT",
         durations: [
-          { time: "60 minutes", price: "325 SAR" },
+          { time: "60 minutes", price: "300 SAR" },
         ],
         short: "",
         full: ""
@@ -555,7 +555,7 @@ const data = {
       {
         title: "HAIR TRIM",
         durations: [
-          { time: "45 minutes", price: "325 SAR" },
+          { time: "45 minutes", price: "225 SAR" },
         ],
         short: "",
         full: ""
@@ -571,7 +571,7 @@ const data = {
       {
         title: "CHILD HAIR CUT",
         durations: [
-          { time: "30 minutes", price: "225 SAR" },
+          { time: "30 minutes", price: "200 SAR" },
         ],
         short: "",
         full: ""
@@ -595,9 +595,9 @@ const data = {
       {
         title: "WAVY",
         durations: [
-          { time: "Short - 45 minutes", price: "250 SAR" },
-          { time: "Medium - 45 minutes", price: "375 SAR" },
-          { time: "Long - 60 minutes", price: "450 SAR" },
+          { time: "Short - 45 minutes", price: "230 SAR" },
+          { time: "Medium - 45 minutes", price: "275 SAR" },
+          { time: "Long - 60 minutes", price: "300 SAR" },
         ],
         short: "",
         full: ""
@@ -605,7 +605,7 @@ const data = {
       {
         title: "BRAID SIMPLE",
         durations: [
-          { time: "20 minutes", price: "125 SAR" },
+          { time: "20 minutes", price: "115 SAR" },
         ],
         short: "",
         full: ""
@@ -613,7 +613,7 @@ const data = {
       {
         title: "BRAID ELABORATE",
         durations: [
-          { time: "30 minutes", price: "175 SAR" },
+          { time: "30 minutes", price: "160 SAR" },
         ],
         short: "",
         full: ""
@@ -629,9 +629,9 @@ const data = {
       {
         title: "BLOWDRY",
         durations: [
-          { time: "Short - 45 minutes", price: "225 SAR" },
-          { time: "Medium - 45 minutes", price: "300 SAR" },
-          { time: "Long - 60 minutes", price: "325 SAR" },
+          { time: "Short - 45 minutes", price: "215 SAR" },
+          { time: "Medium - 45 minutes", price: "250 SAR" },
+          { time: "Long - 60 minutes", price: "300 SAR" },
           { time: "Extra Long - 90 minutes", price: "350 SAR" },
         ],
         short: "",
@@ -648,7 +648,7 @@ const data = {
       {
         title: "QUICK WASH & DRY",
         durations: [
-          { time: "25 minutes", price: "350 SAR" },
+          { time: "25 minutes", price: "150 SAR" },
         ],
         short: "",
         full: ""
@@ -656,7 +656,7 @@ const data = {
       {
         title: "ANTI-HAIR FALL",
         durations: [
-          { time: "45 minutes", price: "450 SAR" },
+          { time: "45 minutes", price: "350 SAR" },
         ],
         short: "Kerastase Hair Treatment",
         full: "A dual action and fortifying anti hair-loss treatment that targets fibre breakage and weakened roots, helping hair to anchor more solidly into the scalp."
@@ -664,9 +664,9 @@ const data = {
       {
         title: "CAVIAR PROTOCOL",
         durations: [
-          { time: "Short - 60 minutes", price: "625 SAR" },
-          { time: "Medium - 60 minutes", price: "800 SAR" },
-          { time: "Long - 60 minutes", price: "925 SAR" },
+          { time: "Short - 60 minutes", price: "400 SAR" },
+          { time: "Medium - 60 minutes", price: "500 SAR" },
+          { time: "Long - 60 minutes", price: "650 SAR" },
         ],
         short: "Kerastase Hair Treatment",
         full: "Our most luxurious hair treatment in a 5-step ritual. The results are better hydration, stronger hair and roots, repairs broken and damaged hair and deeply cleanses the scalp, providing UV protection."
@@ -674,7 +674,7 @@ const data = {
       {
         title: "CURL MANIFESTO INTENSE ANTI BREAKAGE",
         durations: [
-          { time: "60 minutes", price: "600 SAR" },
+          { time: "60 minutes", price: "450 SAR" },
         ],
         short: "Keratase Hair Treatment",
         full: "For all hair types, this is the ultimate repairing and renewing treatment. Removes calcium build up, reconnects broken keratin links for stronger, healthier and shinier hair."
@@ -690,7 +690,7 @@ const data = {
       {
         title: "SCALP REJUVENATION",
         durations: [
-          { time: "60 minutes", price: "525 SAR" },
+          { time: "60 minutes", price: "500 SAR" },
         ],
         short: "Kerastase Hair Treatment",
         full: "A rejuvenating and intensive scalp treatment that addresses common concerns such as dryness, itchiness and sensitivity, promoting a balanced environment for hair growth."
@@ -698,7 +698,7 @@ const data = {
       {
         title: "FUSIO DOSE",
         durations: [
-          { time: "45 minutes", price: "375 SAR" },
+          { time: "45 minutes", price: "300 SAR" },
         ],
         short: "Kerastase Hair Treatment",
         full: "Each exfoliating scalp scrub is infused with its own uplifting scent that is energising or soothing. This cleansing treatment will purify the hair and scalp from toxins."
@@ -706,7 +706,7 @@ const data = {
       {
         title: "SCRUB EXPRESS",
         durations: [
-          { time: "30 minutes", price: "350 SAR" },
+          { time: "30 minutes", price: "290 SAR" },
         ],
         short: "Kerastase Hair Treatment",
         full: "Cleanses away impurities, pollution particles and build-up. Suitable for all skin and hair types, including sensitive scalps."
@@ -714,9 +714,9 @@ const data = {
       {
         title: "BB CREAM TREATMENT ",
         durations: [
-          { time: "Short - 150 minutes", price: "1100 SAR" },
-          { time: "Medium - 180 minutes", price: "1175 SAR" },
-          { time: "Long - 240 minutes", price: "1250 SAR" },
+          { time: "Short - 150 minutes", price: "650 SAR" },
+          { time: "Medium - 180 minutes", price: "850 SAR" },
+          { time: "Long - 240 minutes", price: "1000 SAR" },
         ],
         short: "Kerastase Hair Treatment",
         full: "Get smooth and manageable hair for up to three months. Deeply moisturising and strengthening. This treatment seals and protects the cuticle to leave the hair bright, shiny and healthy looking."
@@ -724,7 +724,7 @@ const data = {
       {
         title: "BLOND ABSOLUT PROTOCOL",
         durations: [
-          { time: "45 minutes", price: "450 SAR" },
+          { time: "45 minutes", price: "300 SAR" },
         ],
         short: "Kerastase Hair Treatment",
         full: "Intensively recovers hair by erasing 55% of damage from bleaching, leaving stronger more resistant strands."
@@ -742,7 +742,7 @@ const data = {
       {
         title: "FILE & POLISH MANI",
         durations: [
-          { time: "30 minutes", price: "150 SAR" },
+          { time: "30 minutes", price: "130 SAR" },
         ],
         short: "",
         full: ""
@@ -750,7 +750,7 @@ const data = {
       {
         title: "CLASSIC MANICURE",
         durations: [
-          { time: "60 minutes", price: "250 SAR" },
+          { time: "60 minutes", price: "220 SAR" },
         ],
         short: "",
         full: ""
@@ -758,7 +758,7 @@ const data = {
       {
         title: "GEL MANICURE",
         durations: [
-          { time: "60 minutes", price: "400 SAR" },
+          { time: "60 minutes", price: "360 SAR" },
         ],
         short: "",
         full: ""
@@ -766,7 +766,7 @@ const data = {
       {
         title: "BIAB MANICURE",
         durations: [
-          { time: "75 minutes", price: "400 SAR" },
+          { time: "75 minutes", price: "360 SAR" },
         ],
         short: "",
         full: ""
@@ -774,7 +774,7 @@ const data = {
       {
         title: "CORE SIGNATURE MANICURE",
         durations: [
-          { time: "75 minutes", price: "400 SAR" },
+          { time: "75 minutes", price: "330 SAR" },
         ],
         short: "",
         full: ""
@@ -782,7 +782,7 @@ const data = {
       {
         title: "FILE & POLISH PEDI",
         durations: [
-          { time: "30 minutes", price: "150 SAR" },
+          { time: "30 minutes", price: "130 SAR" },
         ],
         short: "",
         full: ""
@@ -790,7 +790,7 @@ const data = {
       {
         title: "CLASSIC PEDICURE",
         durations: [
-          { time: "60 minutes", price: "250 SAR" },
+          { time: "60 minutes", price: "220 SAR" },
         ],
         short: "",
         full: ""
@@ -806,7 +806,7 @@ const data = {
       {
         title: "BIAB PEDICURE",
         durations: [
-          { time: "105 minutes", price: "450 SAR" },
+          { time: "105 minutes", price: "360 SAR" },
         ],
         short: "",
         full: ""
@@ -814,7 +814,7 @@ const data = {
       {
         title: "CORE SIGNATURE PEDICURE",
         durations: [
-          { time: "75 minutes", price: "400 SAR" },
+          { time: "75 minutes", price: "330 SAR" },
         ],
         short: "",
         full: ""
@@ -822,7 +822,7 @@ const data = {
       {
         title: "NAIL EXTENSIONS REMOVAL",
         durations: [
-          { time: "30 minutes", price: "230 SAR" },
+          { time: "30 minutes", price: "200 SAR" },
         ],
         short: "",
         full: ""
@@ -830,7 +830,7 @@ const data = {
       {
         title: "NAIL EXTENSIONS FULL SET",
         durations: [
-          { time: "180 minutes", price: "690 SAR" },
+          { time: "180 minutes", price: "600 SAR" },
         ],
         short: "",
         full: ""
@@ -838,7 +838,7 @@ const data = {
       {
         title: "NAIL EXTENSIONS REFILL",
         durations: [
-          { time: "105 minutes", price: "460 SAR" },
+          { time: "105 minutes", price: "400 SAR" },
         ],
         short: "",
         full: ""
@@ -846,7 +846,7 @@ const data = {
       {
         title: "NAIL EXTENSIONS FIX",
         durations: [
-          { time: "30 minutes", price: "115 SAR" },
+          { time: "30 minutes", price: "90 SAR" },
         ],
         short: "",
         full: ""
@@ -854,7 +854,7 @@ const data = {
       {
         title: "SOFT GEL EXTENSIONS",
         durations: [
-          { time: "90 minutes", price: "690 SAR" },
+          { time: "90 minutes", price: "550 SAR" },
         ],
         short: "",
         full: ""
@@ -862,7 +862,7 @@ const data = {
       {
         title: "CALLUS REMOVAL",
         durations: [
-          { time: "45 minutes", price: "200 SAR" },
+          { time: "45 minutes", price: "160 SAR" },
         ],
         short: "",
         full: ""
@@ -870,7 +870,7 @@ const data = {
       {
         title: "GEL SOAK OFF",
         durations: [
-          { time: "15 minutes", price: "120 SAR" },
+          { time: "15 minutes", price: "100 SAR" },
         ],
         short: "",
         full: ""
@@ -878,7 +878,7 @@ const data = {
       {
         title: "UPGRADE GEL POLISH",
         durations: [
-          { time: "30 minutes", price: "175 SAR" },
+          { time: "30 minutes", price: "150 SAR" },
         ],
         short: "",
         full: ""
@@ -886,7 +886,7 @@ const data = {
       {
         title: "UPGRADE NAIL POLISH",
         durations: [
-          { time: "15 minutes", price: "60 SAR" },
+          { time: "15 minutes", price: "50 SAR" },
         ],
         short: "",
         full: ""
@@ -907,8 +907,8 @@ const data = {
       {
         title: "Swedish Massage",
         durations: [
-          { time: "60 minutes", price: "700 SAR" },
-          { time: "90 minutes", price: "920 SAR" }
+          { time: "60 minutes", price: "500 SAR" },
+          { time: "90 minutes", price: "700 SAR" }
         ],
         short: "Focus: Peak Performance, Regeneration",
         full: "The Swedish body massage is a combination of many different techniques rolled into one session. Your therapist will utilize smooth, long strokes with light to moderate pressure, helping to reduce stress, relax muscles, improve circulation, and stimulate the skin and nervous system."
@@ -916,8 +916,8 @@ const data = {
       {
         title: "Deep Tissue Massage",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
-          { time: "90 minutes", price: "975 SAR" }
+          { time: "60 minutes", price: "600 SAR" },
+          { time: "90 minutes", price: "800 SAR" }
         ],
         short: "Focus: Peak Performance, Regeneration",
         full: "Designed to target deep-seated muscle tension, this therapeutic massage technique uses firm pressure and slow strokes to alleviate stress and release chronic knots. Your therapist will customize the massage to your specific needs, focusing on areas of tension and restoring your body’s balance and vitality."
@@ -925,7 +925,7 @@ const data = {
       {
         title: "Head, Neck & Back Massage",
         durations: [
-          { time: "30 minutes", price: "400 SAR" },
+          { time: "30 minutes", price: "300 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Let yourself melt away with this deeply relaxing head, neck, and back massage targeting stress relief and key areas of muscle tension. Feel renewed and refreshed."
@@ -933,7 +933,7 @@ const data = {
       {
         title: "Foot Massage",
         durations: [
-          { time: "30 minutes", price: "400 SAR" },
+          { time: "30 minutes", price: "300 SAR" },
         ],
         short: "Focus: Peak Performance",
         full: "Sit back and relax as you enjoy a decadent foot massage, designed to release tension in the lower legs and feet. A perfect treatment to help the body unwind, improve blood circulation, lower blood pressure, and rejuvenate tired feet. Excellent for after work or post travel."
@@ -941,8 +941,8 @@ const data = {
       {
         title: "CORE Signature Massage",
         durations: [
-          { time: "60 minutes", price: "1050 SAR" },
-          { time: "90 minutes", price: "1375 SAR" }
+          { time: "60 minutes", price: "800 SAR" },
+          { time: "90 minutes", price: "1100 SAR" }
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "A fusion massage that seamlessly blends together various massage techniques custom-designed and adapted to meet your physical needs and preferences. Our most popular service. Only available at CORE Wellness."
@@ -950,7 +950,7 @@ const data = {
       {
         title: "Lymphatic Drainage",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "Using gentle, repetitive strokes to facilitate the movement of fluids around the body, helping to remove toxins from the body’s tissues. This massage can also aid in the prevention of swelling after injury or surgery and is known to provide a major boost to the health of your immune system. Lymphatic drainage is very effective for cases of oedema and reduces cellulite. It is highly recommended as a treatment after flying, following illness and post pregnancy"
@@ -958,7 +958,7 @@ const data = {
       {
         title: "Sports Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration",
         full: "The application of sports massage prior to and after exercise is shown to enhance performance, aid recovery, and prevent injury. Your therapist will provide a personalized massage designed to assist in correcting issues and imbalances in the soft tissue that are caused by repetitive and strenuous physical activity and trauma."
@@ -966,7 +966,7 @@ const data = {
       {
         title: "Thai Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "The dynamic technique of traditional Thai massage adopts full-body manipulation that focuses on deep tissue pressure, muscle and joint stretching, body alignment, and adjustment. Known to lower stress, boost energy and improve athletic performance."
@@ -974,7 +974,7 @@ const data = {
       {
         title: "Anti-Cellulite Massage",
         durations: [
-          { time: "45 minutes", price: "625 SAR" },
+          { time: "45 minutes", price: "550 SAR" },
         ],
         short: "Focus: Weight Management, Regeneration, Appearance",
         full: "This specially designed massage will eliminate cellulite over a period of continued therapy. It affects the breaking down of fat buildup and strengthens connective tissue at the affected areas, while increasing oxygenated blood circulation."
@@ -982,8 +982,8 @@ const data = {
       {
         title: "Hot Stone Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
-          { time: "90 minutes", price: "920 SAR" }
+          { time: "60 minutes", price: "600 SAR" },
+          { time: "90 minutes", price: "760 SAR" }
         ],
         short: "Focus: Regeneration, Appearance",
         full: "A restorative massage performed with smooth, warmed mineralized stones. You will achieve deep muscle relaxation through the placement of soothing, heated aromatic stones along pressure points on the body, whilst your therapist performs muscle manipulations that will melt away all tension and stress."
@@ -999,7 +999,7 @@ const data = {
       {
         title: "Reflexology",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "650 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration",
         full: "This ancient methodical practice stimulates the reflex points of the feet, relaxing and rejuvenating each and every part of the body. Using kneading and activating techniques, which metabolize and eliminate toxins, improve circulation, raise energy levels, and calm the nervous system. It will help reduce anxiety and stress and dissipate tension throughout your entire body."
@@ -1007,7 +1007,7 @@ const data = {
       {
         title: "Warm Bamboo Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Utilizing heated bamboo tools of various shapes and sizes, this holistic therapy will achieve deep tissue manipulation without causing discomfort, providing deep relaxation and releasing muscle tension. Proven to relieve migraines, alleviate joint and arthritic pain, and stimulate cellular activity to repair and intensely nourish the skin."
@@ -1015,7 +1015,7 @@ const data = {
       {
         title: "Maderotherapy",
         durations: [
-          { time: "45 minutes", price: "700 SAR" },
+          { time: "45 minutes", price: "580 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "This invigorating, holistic massage technique uses a variety of wooden tools and rolling pins designed to provide more intense pressure on fibrous cellulite and improve the appearance of cellulite and stimulate collagen production. Fat deposits and toxins are removed, and regular treatments will tone the body and give a lift-up effect. "
@@ -1023,7 +1023,7 @@ const data = {
       {
         title: "Aromatherapy Massage",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "700 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Combining the power of essential oils with massage therapy to de-stress and recharge. Using rhythmic strokes, the oils are absorbed through the skin. Your therapist will choose a personalized blend of oils to impart benefits to both your body and mind. These include improving your mood, soothing sore muscles, and detoxifying the body."
@@ -1031,7 +1031,7 @@ const data = {
       {
         title: "Indian Head Massage",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "This ancient methodical practice stimulates the reflex points of the feet, relaxing and rejuvenating each and every part of the body. Using kneading and activating techniques which metabolize and eliminate toxins, improve circulation, raise energy levels, and calm the nervous system. It will help reduce anxiety and stress and dissipate tension throughout your entire body."
@@ -1041,7 +1041,7 @@ const data = {
       {
         title: "CLARIFYING PURITY RITUAL",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "This treatment cleans deeply to decongest the skin and tighten pores. A gentle face exfoliation with our White Glacier Face Peeling is used to remove impurities, and to close the pores and reduce the sebum secretion, leaving the skin looking and feeling fresh. The skin regains its natural balance thanks to our Purity Lotion, Alpine Purity Mask and Hydra Balance Face Cream."
@@ -1049,7 +1049,7 @@ const data = {
       {
         title: "SKIN COMFORT NOURISHING RITUAL)",
         durations: [
-          { time: "60 minutes", price: "850 SAR" },
+          { time: "60 minutes", price: "710 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "From the Swiss Alps, our soothing and nourishing honey is extracted directly from the hive. This journey commences with a deep cleansing and exfoliation using the black pearl face peeling. A rejuvenating massage, followed by an application of a nourishing rich serum and essential oils, will combat the signs of aging. An extra dose of vitamins and trace elements with our royal jelly contained in the Royal Mask will turn back the hands of time. Your skin feels nourished, hydrated and signs of aging are diminished."
@@ -1057,7 +1057,7 @@ const data = {
       {
         title: "RENEWAL ELIXIR",
         durations: [
-          { time: "90 minutes", price: "975 SAR" },
+          { time: "90 minutes", price: "810 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Stimulating the skin from the inside out, the ultrasound waves will boost the natural collagen and elastin production. A firmer, smoother and more uniform complexion is then obtained through the repairing effect of the Collagen Mask, made by biotechnology, as well as the firming effect of the acacia collagen cream."
@@ -1065,7 +1065,7 @@ const data = {
       {
         title: "ROYAL REPAIR TREATMENT",
         durations: [
-          { time: "90 minutes", price: "1100 SAR" },
+          { time: "90 minutes", price: "950 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Using the latest technology in skin care, this treatment suits particularly skin in need of a regenerative boost. The ultrasound waves penetrate on a cellular level with an intense dose of the green caviar, the extracted pearls from Okinawa Island finely combined with the antioxidant power of the gold trace elements to repair and revamp the skin."
@@ -1073,7 +1073,7 @@ const data = {
       {
         title: "ANTIOXIDANT BRIGHTENING INFUSION",
         durations: [
-          { time: "90 minutes", price: "1375 SAR" },
+          { time: "90 minutes", price: "1200 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "This facial uses pearls of pure Vitamin C, glycolic acid and fruit acids to reduce pigmentation and harmonize your skin tone, with a boost of radiance. The soft peeling it induces will help the first skin layers regenerate and fine wrinkles fade. The oxidative power of the products used will contribute to protect your skin from radicals."
@@ -1081,7 +1081,7 @@ const data = {
       {
         title: "CORE SIGNATURE FACIAL",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },
+          { time: "60 minutes", price: "850 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Proven to detoxify the skin, stimulate cells responsible for collagen production, soften wrinkles and reduce fine lines, whilst also relieving facial muscle tension and promotes oxygen- rich blood circulation. Facial cupping offers an all in one complexion refresh and renewal."
@@ -1091,21 +1091,21 @@ const data = {
       {
         title: "LEG REFRESH & DRAINAGE THERAPY",
         durations: [
-          { time: "30 minutes", price: "400 SAR" },],
+          { time: "30 minutes", price: "330 SAR" },],
         short: "Focus: Peak Performance",
         full: "Experience the ultimate leg treatment designed to reduce water retention, deeply hydrate, and provide complete relaxation. Our approach combines lymphatic drainage techniques and Brown Seaweed, rich in minerals and trace elements, with a collection of essential oils to decongest and provide a cooling effect."
       },
       {
         title: "SILHOUETTE SCULPT & LIFT",
         durations: [
-          { time: "60 minutes", price: "750 SAR" },],
+          { time: "60 minutes", price: "620 SAR" },],
         short: "Focus: Regeneration, Appearance",
         full: "A luxurious and results-driven body contouring treatment that begins with Ultrasound Liposculpture, which targets localized fat deposits and stimulates lymphatic drainage for a sculpted silhouette. Next, Dermo-massage enhances circulation, smooths cellulite, and firms the skin using a specialized vacuum and rolling technique. The treatment concludes with a CryoFit Lotion massage, delivering an invigorating cooling effect to tighten, tone, and refresh the skin. Ideal for those seeking a slimmer, firmer, and more refined body shape while promoting detoxification and skin rejuvenation"
       },
       {
         title: "SCULPTURE WOOD SLIMMING TREATMENT",
         durations: [
-          { time: "60 minutes", price: "850 SAR" },
+          { time: "60 minutes", price: "700 SAR" },
         ],
         short: "Focus: Weight Management, Appearance",
         full: "Proven an effective slimming treatment, the wooden sculpture tools are used to break down fat and reduced cellulites. Regular treatments will create a significant toning and sculpting effect, specially at the midriff, thigh and gluts. On request, measurement can be taken to monitor the fat loss and change in body shape and contour."
@@ -1113,23 +1113,23 @@ const data = {
       {
         title: "PURITY BODY DETOX RITUAL",
         durations: [
-          { time: "90 minutes", price: "900 SAR" },
+          { time: "90 minutes", price: "700 SAR" },
         ],
         short: "Focus: Weight Management, Appearance",
         full: "The treatment starts with a total body peeling using our therapeutic Purifying Swiss Alps Salts drawn from the Swiss Aletsch glacier, which is rich in therapeutical minerals, reducing water retention and improving blood circulation. The peeling is then followed by a detoxifying and purifying Fucus Algae Remineralizing Wrap. This subtle combination of fresh fucus and lithothamnium is ideal for an effective drainage and an abundant remineralization and revitalization of the body. A 30 min massage with our Precious Body Oil enriched with the Fit Body Booster will relax tensions while eliminating toxins and restoring balance to the skin"
       },
-      {
-        title: "CORE SIGNATURE BODY TREATMENT",
-        durations: [
-          { time: "60 minutes", price: "1020 SAR" },
-        ],
-        short: "Focus: Peak Performance, Regeneration",
-        full: "A fully personalized Oriental bathing ritual to stimulate your senses, with nourishing treatments, unique strokes and soothing aromas. You may choose from any of our natural bathing products. Your therapist will create a bespoke bathing and massage ritual designed just for you. This treatment includes shampoo and a premium hair mask from our Kerastase range."
-      },
+      // {
+      //   title: "CORE SIGNATURE BODY TREATMENT",
+      //   durations: [
+      //     { time: "60 minutes", price: "1020 SAR" },
+      //   ],
+      //   short: "Focus: Peak Performance, Regeneration",
+      //   full: "A fully personalized Oriental bathing ritual to stimulate your senses, with nourishing treatments, unique strokes and soothing aromas. You may choose from any of our natural bathing products. Your therapist will create a bespoke bathing and massage ritual designed just for you. This treatment includes shampoo and a premium hair mask from our Kerastase range."
+      // },
       {
         title: "BODY CUPPING",
         durations: [
-          { time: "60 minutes", price: "975 SAR" },
+          { time: "60 minutes", price: "800 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "This powerfull techinique is based on myofacial decompression and works by drawing blood to or away from specific parts of the body. It can be used on any part of the body to relieve pain, aid in muscle recovery, lower blood pressure, reduced stress, treat migranes and soften scar tissue. It is also an effective tool to release stored up toxins from body tissue or organ."
@@ -1137,7 +1137,7 @@ const data = {
       {
         title: "DRAINAGE LYMPHATIC WOOD",
         durations: [
-          { time: "60 minutes", price: "925 SAR" },
+          { time: "60 minutes", price: "700 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "Targeting specific lymphatic points in the body, using a variety of special wooden tools. This targeted technique draws out up to 80% of toxins from the body, whilst cellulite and fat deposits are dissolved. The deep internal cleansing effect helps to relieve and heal the symptoms associated with stomach digestion and colon issues."
@@ -1145,7 +1145,7 @@ const data = {
       {
         title: "HERBAL BATH",
         durations: [
-          { time: "75 minutes", price: "925 SAR" },
+          { time: "75 minutes", price: "750 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Applying ancient healing and herbal medicine principles, your therapist will specially prepare mix of herb and products for relief from specific ailment, pain , injuries and to aid recovery. Those with acne and skin issues will see results after just few sessions, whilst those who have joint issues internal complaints or are highly active in training will find the deep penetration of the herb during the bathing ritual instantly beneficial."
@@ -1153,7 +1153,7 @@ const data = {
       {
         title: "MOROCCAN BATH",
         durations: [
-          { time: "75 minutes", price: "925 SAR" },
+          { time: "75 minutes", price: "650 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Enjoy a moroccan Bath Ritual in our specially designed suite, encompassing a marble heated bed and personal steam and shower room. Adopting the ancient principles, your body will be deeply purified and detoxified, focusing on cleansing the body, revitalizing the skin and promoting relaxation. Your skin will feel incredibly healthy and moisturized."
@@ -1161,7 +1161,7 @@ const data = {
       {
         title: "TURKISH BATH",
         durations: [
-          { time: "75 minutes", price: "925 SAR" },
+          { time: "75 minutes", price: "650 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Using traditional natural products infused with Green Tea, this gentle and luxurious bathing ritual will have you feeling completely pampered and spoilt. Using softer movement and pressure, dead skin is removed, the skin tone becomes unified and the whole body and hair is deeply moisturized, using a specialized foam massage techinique. A perfect choice for head to toe pampering session, to relieve stess or if your have sensitive skin."
@@ -1169,7 +1169,7 @@ const data = {
       {
         title: "CORE SIGNATURE BATH",
         durations: [
-          { time: "90 minutes", price: "1100 SAR" },
+          { time: "90 minutes", price: "900 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "A fully personalized oriental bathing ritual to stimulate your senses with nourishing treatment, unique strokes, and soothing aromas. You may choose any of our natural bathing products. Your therapist will create a bespoke bathing and massage ritual designed just for you. This treatment includeds shampoo and premium hair mask from our Kerastase range"
@@ -1197,7 +1197,7 @@ const data = {
       {
         title: "INDIBA FACIAL",
         durations: [
-          { time: "45 minutes", price: "750 SAR" },
+          { time: "45 minutes", price: "550 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "This exclusive and patented technology is used for full facial rejuvenation. It helps to regenerate collagen and elastin fibres, plump the skin, reduce wrinkles and improve the signs of aging. It combines hydro-dermabrasion, electroporation, and low frequency electrotherapy to elevate the skin to a new level."
@@ -1205,7 +1205,7 @@ const data = {
       {
         title: "INDIBA RECOVERY",
         durations: [
-          { time: "60 minutes", price: "875 SAR" },
+          { time: "60 minutes", price: "650 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "Advanced tissue repair for accelerated healing. A personalised manual technique where the therapist focuses action on specific sof and hard tissue types for a bespoke treatment programme. Highly effective for rehabilitation and recovery after surgery, for chronic conditions, acute injuries and pain reduction."
@@ -1213,8 +1213,8 @@ const data = {
       {
         title: "TRUSCULPT",
         durations: [
-          { time: "1 Muscle Group", price: "925 SAR" },
-          { time: "2 Muscle Group", price: "1250 SAR" }
+          { time: "1 Muscle Group", price: "700 SAR" },
+          { time: "2 Muscle Group", price: "1000 SAR" }
         ],
         short: "Focus: Regeneration, Appearance",
         full: "The latest in non – invasive muscle sculpting technology that is truly revolutionary. This painless, non-surgical body contouring technique helps you to sculpt your muscle to get a fit and toned appearance. The treatment is fully customised to treat one or more areas simultaneously to quickly see results."
@@ -1222,7 +1222,7 @@ const data = {
       {
         title: "LINFOPRESS",
         durations: [
-          { time: "30 minutes", price: "350 SAR" },
+          { time: "30 minutes", price: "300 SAR" },
         ],
         short: "Focus: Weight Management, Regeneration, Appearance",
         full: "The latest in pressotherapy which uses a combination of eight differentiated-sector pressure elements and advanced compression that activates the circulatory and lymphatic system in a simple, quick and effective way. Recommended for cellulite reduction, weight loss, slimming and detoxifying."
@@ -1230,7 +1230,7 @@ const data = {
       {
         title: "REMODELING FACE - TECH ADD-ON",
         durations: [
-          { time: "30 minutes", price: "350 SAR" },
+          { time: "30 minutes", price: "290 SAR" },
         ],
         short: "",
         full: "To optimized the result of our treatment, an advanced bioelectric treatment that combines the power of the three currents ( Galvanic, medium and high frequency) for immediate and long – lasting results."
@@ -1238,17 +1238,17 @@ const data = {
       {
         title: "CRYOTHERAPY",
         durations: [
-          { time: "15 minutes", price: "400 SAR" },
+          { time: "15 minutes", price: "300 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "Instantly feel the transformative effect of entering our sub-zero temperature whole-body cryotherapy chamber. This treatment creates full body rejuvenation, endorphin release, calorie burn and weight loss. You will see improvements in skin conditions and find a significantly reduced recovery time after workouts or injury."
       },
       {
-        title: "OXYGEN THERAPY (AirPod Propel)",
+        title: "Air Pod (Oxygen chamber)",
         durations: [
-          { time: "30 minutes", price: "575 SAR" },
-          { time: "60 minutes", price: "745 SAR" },
-          { time: "90 minutes", price: "1150 SAR" },
+          { time: "30 minutes", price: "350 SAR" },
+          { time: "60 minutes", price: "550 SAR" },
+          { time: "90 minutes", price: "850 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "The AirPod takes the benefits of oxygen therapy to a new level. Oxygen is delivered through increased atmospheric pressure in a personal pod. This cutting-edge wellness technology strengthens the foundation for general health by promoting relaxation, improving sleep quality, reducing stress and boosting energy output. It also provides vital recovery benefits by accelerating repair processes in the body, boosting concentration, circulation and clarity."
@@ -1256,7 +1256,7 @@ const data = {
       {
         title: "Caracalla (Hydrotherapy)",
         durations: [
-          { time: "25 minutes", price: "450 SAR" },
+          { time: "25 minutes", price: "300 SAR" },
         ],
         short: "Focus: Peak Performance, Regeneration, Appearance",
         full: "Harnessing the force of water jets into a focused stream creates a deep, wide band of pressure for therapeutic, manipulative penetration and myofascial release. This increases flexibility, improves recovery, strengthens and heals injured tissues through improved circulation."
@@ -1264,7 +1264,7 @@ const data = {
       {
         title: "HYDRACOOL",
         durations: [
-          { time: "60 minutes", price: "800 SAR" },
+          { time: "60 minutes", price: "600 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "The exclusive and patented technology is used for full facial rejuvenation. It helps to regenerate collagen and elastin fibres, plump the skin, reduce wrinkles and improved signs of aging. It combines Hydro-dermabrassion, electroporation, LED and low frequency electrotherapy."
@@ -1272,40 +1272,40 @@ const data = {
       {
         title: "SCOTTISH SHOWER",
         durations: [
-          { time: "30 minutes", price: "300 SAR" },
+          { time: "30 minutes", price: "250 SAR" },
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
         full: "Scottish shower increase resistance to temperature difference, positively affecting the metabolism and stimulating the immune system. Treatment improves blood circulation and immunity mechanism responses, activates the metabolism ,increase physical and mental resistance and its has a beneficial effect on imbalances of the vegetative nervous system."
       },
-      {
-        title: "NUVOLA DRY FLOATATION",
-        durations: [
-          { time: "30 minutes", price: "450 SAR" },
-        ],
-        short: "Focus: Regeneration, Appearance",
-        full: "This is a truly unique experience where you lie in a soft, warm membrane, staying completely dry whilst experiencing water therapy, deep relaxation through weightlessness and cacooning. Gentle vibration massage your body, releasing muscle tension and body aches."
-      },
-      {
-        title: "ULTIMATE NUVOLA EXPERIENCE",
-        durations: [
-          { time: "45 minutes", price: "700 SAR" },
-        ],
-        short: "Focus: Weight Management, Regeneration, Appearance",
-        full: "Experience a new dimension in aesthetic beauty and overall wellness with a combination of Body Sculpt, Lymphatic Pumping and Dry Floatation. Ideal to decrease chronic fatique, irritability, insonmia, muscle weakness and aid recovery."
-      },
-      {
-        title: "REVITAL DETOX PROGRAM",
-        durations: [
-          { time: "90 minutes", price: "1200 SAR" },
-        ],
-        short: "Focus: Weight Management, Regeneration, Appearance",
-        full: "This 3-Step therapy offers a tailored plan to help you lose weight and increase your fitness level. Combining a water massage, followed by mud therapy performed on our Nuvola dry floatation bed and ending with an invigorating Scottish Shower. Designed to stimulate fat loss, enhance circulation and boost the immune system. Ideal to reduce volume of thighs, back and abdomen and targets cellulite build-up."
-      },
+      // {
+      //   title: "NUVOLA DRY FLOATATION",
+      //   durations: [
+      //     { time: "30 minutes", price: "450 SAR" },
+      //   ],
+      //   short: "Focus: Regeneration, Appearance",
+      //   full: "This is a truly unique experience where you lie in a soft, warm membrane, staying completely dry whilst experiencing water therapy, deep relaxation through weightlessness and cacooning. Gentle vibration massage your body, releasing muscle tension and body aches."
+      // },
+      // {
+      //   title: "ULTIMATE NUVOLA EXPERIENCE",
+      //   durations: [
+      //     { time: "45 minutes", price: "700 SAR" },
+      //   ],
+      //   short: "Focus: Weight Management, Regeneration, Appearance",
+      //   full: "Experience a new dimension in aesthetic beauty and overall wellness with a combination of Body Sculpt, Lymphatic Pumping and Dry Floatation. Ideal to decrease chronic fatique, irritability, insonmia, muscle weakness and aid recovery."
+      // },
+      // {
+      //   title: "REVITAL DETOX PROGRAM",
+      //   durations: [
+      //     { time: "90 minutes", price: "1200 SAR" },
+      //   ],
+      //   short: "Focus: Weight Management, Regeneration, Appearance",
+      //   full: "This 3-Step therapy offers a tailored plan to help you lose weight and increase your fitness level. Combining a water massage, followed by mud therapy performed on our Nuvola dry floatation bed and ending with an invigorating Scottish Shower. Designed to stimulate fat loss, enhance circulation and boost the immune system. Ideal to reduce volume of thighs, back and abdomen and targets cellulite build-up."
+      // },
       {
         title: "MLX I3DOME",
         durations: [
-          { time: "MLX I3Dome Body", price: "625 SAR" },
-          { time: "MLX I3Dome Face & Body", price: "925 SAR" },
+          { time: "MLX I3Dome Body", price: "520 SAR" },
+          { time: "MLX I3Dome Face & Body", price: "700 SAR" },
 
         ],
         short: "Focus: Weight Management, Peak Performance, Regeneration, Appearance",
@@ -1314,7 +1314,7 @@ const data = {
       {
         title: "VENUS LEGACY (BODY)",
         durations: [
-          { time: "30 minutes", price: "1180 SAR" },
+          { time: "30 minutes", price: "650 SAR" },
         ],
         short: "Focus: Weight Management",
         full: "This advanced non invasive body contouring treatment seamlessly combines multi polar RF, PEMF, and VariPulse™ suction to deliver therapeutic heat deep into skin and fat layers. Expect firmer, tighter skin, noticeable reduction of cellulite, and a slimmer, more sculpted silhouette. Enhanced lymphatic drainage and blood circulation lead to smoother contours and revitalized texture, all in a comfortable massage like experience—with no downtime."
@@ -1322,7 +1322,7 @@ const data = {
       {
         title: "VENUS LEGACY (FACE)",
         durations: [
-          { time: "20 minutes", price: "850 SAR" },
+          { time: "20 minutes", price: "500 SAR" },
         ],
         short: "Focus: Regeneration, Appearance",
         full: "This gentle facial treatment utilizes the same powerful RF + PEMF + VariPulse™ technology within a compact applicator designed for delicate zones. It revitalizes skin by improving elasticity and firmness, softens fine lines and wrinkles, and enhances facial and neck contours. Boosted circulation and lymph flow help reduce puffiness and promote a brighter, more radiant complexion—all during a soothing, effortless treatment with no recovery time needed."
@@ -1340,7 +1340,7 @@ const data = {
       {
         title: "CLASSIC DUO",
         durations: [
-          { time: "50 minutes", price: "325 SAR" },
+          { time: "50 minutes", price: "280 SAR" },
         ],
         short: "Hair & Beard",
         full: "Wash, classic cut, lotion or balm, hot towel with essential oil, beard shape or shave, second wash, finishing cologne."
@@ -1348,7 +1348,7 @@ const data = {
       {
         title: "TAILORED FADE DUO",
         durations: [
-          { time: "50 minutes", price: "325 SAR" },
+          { time: "50 minutes", price: "280 SAR" },
         ],
         short: "Hair & Beard",
         full: "Wash, fade haircut, balm, hot towel with essential oil, fade beard, second wash, dry, finishing cologne."
@@ -1380,7 +1380,7 @@ const data = {
       {
         title: "TAILORED FADE HAIRCUT",
         durations: [
-          { time: "30 minutes", price: "250 SAR" },
+          { time: "30 minutes", price: "200 SAR" },
         ],
         short: "Hair",
         full: "Wash, fade haircut, balm, hot towel with essential oil, wash, dry, finishing cologne."
@@ -1404,7 +1404,7 @@ const data = {
       {
         title: "CLASSIC BEARD TRIM",
         durations: [
-          { time: "20 minutes", price: "150 SAR" },
+          { time: "20 minutes", price: "130 SAR" },
         ],
         short: "Beard",
         full: "Beard shape, lotion or balm, oil, hot towel with essential oil, wash, dry, finishing cologne."
@@ -1412,7 +1412,7 @@ const data = {
       {
         title: "TAILORED FADE BEARD",
         durations: [
-          { time: "20 minutes", price: "175 SAR" },
+          { time: "20 minutes", price: "150 SAR" },
         ],
         short: "Beard",
         full: "Beard Shape, balm, hot towel with essential oil, wash, dry, finishing cologne."
@@ -1420,7 +1420,7 @@ const data = {
       {
         title: "EYEBROW GROOMING",
         durations: [
-          { time: "15 minutes", price: "125 SAR" },
+          { time: "15 minutes", price: "100 SAR" },
         ],
         short: "Male Grooming",
         full: ""
@@ -1428,7 +1428,7 @@ const data = {
       {
         title: "HAIR DYE",
         durations: [
-          { time: "60 minutes", price: "400 SAR" },
+          { time: "60 minutes", price: "300 SAR" },
         ],
         short: "Male Grooming",
         full: ""
@@ -1444,7 +1444,7 @@ const data = {
       {
         title: "WAXING EARS & NOSE",
         durations: [
-          { time: "20 minutes", price: "150 SAR" },
+          { time: "20 minutes", price: "100 SAR" },
         ],
         short: "Male Grooming",
         full: ""
@@ -1452,7 +1452,7 @@ const data = {
       {
         title: "BACK SHAVE",
         durations: [
-          { time: "30 minutes", price: "285 SAR" },
+          { time: "30 minutes", price: "175 SAR" },
         ],
         short: "Male Grooming",
         full: ""
@@ -1470,7 +1470,7 @@ const data = {
       {
         title: "FILE & POLISH MANI",
         durations: [
-          { time: "30 minutes", price: "125 SAR" },
+          { time: "30 minutes", price: "130 SAR" },
         ],
         short: "",
         full: ""
@@ -1478,7 +1478,7 @@ const data = {
       {
         title: "CLASSIC MANICURE",
         durations: [
-          { time: "60 minutes", price: "250 SAR" },
+          { time: "60 minutes", price: "220 SAR" },
         ],
         short: "",
         full: ""
@@ -1486,7 +1486,7 @@ const data = {
       {
         title: "CORE SIGNATURE MANICURE",
         durations: [
-          { time: "75 minutes", price: "400 SAR" },
+          { time: "75 minutes", price: "330 SAR" },
         ],
         short: "",
         full: ""
@@ -1494,7 +1494,7 @@ const data = {
       {
         title: "FILE & POLISH PEDI",
         durations: [
-          { time: "30 minutes", price: "150 SAR" },
+          { time: "30 minutes", price: "130 SAR" },
         ],
         short: "",
         full: ""
@@ -1502,7 +1502,7 @@ const data = {
       {
         title: "CLASSIC PEDICURE",
         durations: [
-          { time: "60 minutes", price: "250 SAR" },
+          { time: "60 minutes", price: "220 SAR" },
         ],
         short: "",
         full: ""
@@ -1510,7 +1510,7 @@ const data = {
       {
         title: "CORE SIGNATURE PEDICURE",
         durations: [
-          { time: "75 minutes", price: "350 SAR" },
+          { time: "75 minutes", price: "330 SAR" },
         ],
         short: "",
         full: ""
@@ -1518,7 +1518,7 @@ const data = {
       {
         title: "CALLUS REMOVAL",
         durations: [
-          { time: "45 minutes", price: "300 SAR" },
+          { time: "45 minutes", price: "160 SAR" },
         ],
         short: "",
         full: ""
