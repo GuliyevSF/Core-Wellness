@@ -60,9 +60,9 @@ const teamData = [
     gender: "female",
     name: "Siri",
     img: "./assets/team/Team/Clara.webp",
-    nationality: "Italian",
+    nationality: "Thai",
     role: "Spa therapist",
-    specializations: "",
+    specializations: "COMING SOON",
     qualification: "",
     summary: ""
   },
