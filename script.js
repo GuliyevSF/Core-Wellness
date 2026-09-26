@@ -196,6 +196,46 @@ const data = {
     ],
     Body: [
       {
+        title: "THE SAUDI HERITAGE HAMMAM",
+        isNew: true,
+        durations: [
+          { time: "90 minutes", price: "900 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "Before there were spas, there were hammams. The Saudi hammam is one of Arabia's oldest and most complete wellness rituals — a full ceremony of the body and the spirit, passed through generations. Powered by the sacred Sidr botanical from the mountains of Asir, these ritual cleanses what is visible and purifies what is not. From the first foot bath to the final soaping remodeling, every step is intentional. Every touch, ancestral."
+      },
+      {
+        title: "THE DESERT'S LIVING SECRET",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "750 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "For centuries, those who understood the extraordinary power of camel milk kept it to themselves. Rich in proteins, alpha hydroxy acids, Vitamins B and C, and natural antioxidants that no modern laboratory has yet fully replicated, camel milk nourishes the skin at a cellular level — renewing, restoring, and returning it to its most vital state. This is the most complete ritual in the Juthour house. Four products. One extraordinary ingredient. An uninterrupted journey from the first touch to the last."
+      },
+      {
+        title: "THE SECOND LIFE OF THE DATE",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "700 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "For generations, what Saudi hands discarded, Stone-ground from the heart of Al-Qassim's most sacred fruit, date seed powder carries nature's most potent melanin-inhibiting compounds alongside a brightening power that builds beautifully with every session. Combined with the ancient nourishment of pure honey and sealed with the extraordinary proteins of camel milk, this ritual transforms the skin from within. Light was always within you. This ritual simply reveals it."
+      },
+      {
+        title: "A SAUDI COFFEE ESCAPE",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "700 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "Before the first light touches Al-Baha's highlands, the coffee harvest begins. In Saudi culture, Qahwa is never merely a drink it is the warmest act of generosity, the scent of home. Finely ground Al-Baha highland coffee is one of nature's most powerful allies against cellulite and fluid retention. Its natural caffeine penetrates the skin to stimulate lipolysis the breakdown of fat deposits while its antioxidants ignite microcirculation and awaken every layer beneath the surface."
+      },
+      {
+        title: "THE CEREMONY OF RETURN",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "700 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "Deep in the mountain groves of Asir, where the air is cooler and the earth older, grows a botanical so rare and so revered that it has been trusted for over a thousand years — Sidr. Celebrated in Islamic tradition for its extraordinary power to purify not only the body but the soul, Sidr releases what no longer serves you and restores what has always been yours. This is not a treatment. This is a ceremony of return."
+      },
+      {
         title: "LEG REFRESH & DRAINAGE THERAPY",
         durations: [
           { time: "30 minutes", price: "330 SAR" },],
@@ -1088,6 +1128,46 @@ const data = {
       },
     ],
     Body: [
+      {
+        title: "THE SAUDI HERITAGE HAMMAM",
+        isNew: true,
+        durations: [
+          { time: "90 minutes", price: "900 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "Before there were spas, there were hammams. The Saudi hammam is one of Arabia's oldest and most complete wellness rituals — a full ceremony of the body and the spirit, passed through generations. Powered by the sacred Sidr botanical from the mountains of Asir, these ritual cleanses what is visible and purifies what is not. From the first foot bath to the final soaping remodeling, every step is intentional. Every touch, ancestral."
+      },
+      {
+        title: "THE DESERT'S LIVING SECRET",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "750 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "For centuries, those who understood the extraordinary power of camel milk kept it to themselves. Rich in proteins, alpha hydroxy acids, Vitamins B and C, and natural antioxidants that no modern laboratory has yet fully replicated, camel milk nourishes the skin at a cellular level — renewing, restoring, and returning it to its most vital state. This is the most complete ritual in the Juthour house. Four products. One extraordinary ingredient. An uninterrupted journey from the first touch to the last."
+      },
+      {
+        title: "THE SECOND LIFE OF THE DATE",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "700 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "For generations, what Saudi hands discarded, Stone-ground from the heart of Al-Qassim's most sacred fruit, date seed powder carries nature's most potent melanin-inhibiting compounds alongside a brightening power that builds beautifully with every session. Combined with the ancient nourishment of pure honey and sealed with the extraordinary proteins of camel milk, this ritual transforms the skin from within. Light was always within you. This ritual simply reveals it."
+      },
+      {
+        title: "A SAUDI COFFEE ESCAPE",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "700 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "Before the first light touches Al-Baha's highlands, the coffee harvest begins. In Saudi culture, Qahwa is never merely a drink it is the warmest act of generosity, the scent of home. Finely ground Al-Baha highland coffee is one of nature's most powerful allies against cellulite and fluid retention. Its natural caffeine penetrates the skin to stimulate lipolysis the breakdown of fat deposits while its antioxidants ignite microcirculation and awaken every layer beneath the surface."
+      },
+      {
+        title: "THE CEREMONY OF RETURN",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "700 SAR" },],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "Deep in the mountain groves of Asir, where the air is cooler and the earth older, grows a botanical so rare and so revered that it has been trusted for over a thousand years — Sidr. Celebrated in Islamic tradition for its extraordinary power to purify not only the body but the soul, Sidr releases what no longer serves you and restores what has always been yours. This is not a treatment. This is a ceremony of return."
+      },
       {
         title: "LEG REFRESH & DRAINAGE THERAPY",
         durations: [
