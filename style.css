@@ -85,6 +85,10 @@ body {
   margin-bottom: 2px;
 }
 
+.new-badge-top.coming-soon {
+  color: #459bec;
+}
+
 /* Spa Membership bashlangicc */
 /* ===== HERO ===== */
 
@@ -391,7 +395,7 @@ body {
 
 /* GENTLEMEN */
 .page-menu.gentlemen::before {
-  background-image: url("./assets/team/menu/needtochange.png");
+  background-image: url("./assets/team/menu/Mreception.png");
 }
 
 .page-menu.gentlemen-massage::before {
@@ -411,11 +415,11 @@ body {
 }
 
 .page-menu.gentlemen-barber::before {
-  background-image: url("./assets/team/menu/needtochange.png");
+  background-image: url("./assets/team/menu/Barber.png");
 }
 
 .page-menu.gentlemen-nail::before {
-  background-image: url("./assets/team/menu/needtochange.png");
+  background-image: url("./assets/team/menu/Nail.png");
 }
 
 .page-menu.spa-etiquette {

@@ -324,6 +324,60 @@ const data = {
     ],
     Technologies: [
       {
+        title: "InstaGlow Deluxe Facial",
+        comingSoon: true,  // ← isNew: true əvəzinə
+        durations: [
+          { time: "90 minutes", price: "1200 SAR" },
+        ],
+        short: "Focus: Regeneration, Appearance",
+        full: "An exquisite, fully customised facial experience featuring a curated selection of advanced InstaGlow handpieces, tailored to your skin’s unique needs. Deep cleansing, intensive hydration and targeted firming technologies are complemented by LED light therapy and a bespoke mask, leaving the complexion feeling replenished, visibly radiant and beautifully refreshed."
+      },
+      {
+        title: "InstaGlow Signature Facial",
+        comingSoon: true,  // ← isNew: true əvəzinə
+        durations: [
+          { time: "60 minutes", price: "750 SAR" },
+        ],
+        short: "Focus: Regeneration, Appearance",
+        full: "A bespoke facial pairing deep cleansing and refining exfoliation with targeted technologies to enhance hydration and the appearance of firmness. A mask tailored to your skin’s needs adds the finishing touch for a smoother, more lifted-looking complexion and a refined glow."
+      },
+      {
+        title: "InstaGlow Express Facial",
+        comingSoon: true,  // ← isNew: true əvəzinə
+        durations: [
+          { time: "30 minutes", price: "450 SAR" },
+        ],
+        short: "Focus: Regeneration, Appearance",
+        full: "A refreshing radiance ritual combining cleansing, gentle exfoliation and hydrating infusion to revive tired-looking skin. A mask selected for your skin type completes the experience, leaving the complexion feeling soft, refreshed and beautifully luminous."
+      },
+      {
+        title: "Hydrotherapy Thermal Rest",
+        isNew: true,
+        durations: [
+          { time: "90 minutes", price: "850 SAR" },
+        ],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "Begin your wellness journey with the invigorating Caracalla hydrotherapy experience, followed by a refreshing Scottish shower, before transitioning into the peaceful weightlessness of a private DreamPod float. This 90-minute water and float ritual combines revitalizing hydrotherapy with deep relaxation, designed to ease tension, calm the mind, restore balance, and leave you feeling refreshed and renewed."
+      },
+      {
+        title: "DreamPod Signature",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "600 SAR" },
+        ],
+        short: "Focus: Peak Performance, Regeneration",
+        full: "Enjoy 60 minutes of private, weightless floating designed to help you disconnect from daily demands and experience deep relaxation. Personalize your journey with complete darkness and silence or soft lighting and soothing music, allowing the peaceful stillness to calm your mind, ease tension, and leave you feeling deeply rested, restored, and renewed."
+      },
+      {
+        title: "DreamPod Experience",
+        isNew: true,
+        durations: [
+          { time: "30 minutes", price: "350 SAR" },
+        ],
+        short: "Focus: Peak Performance, Regeneration",
+        full: "Begin your journey with a refreshing shower before immersing yourself in the DreamPod’s mineral-rich water. Enjoy 30 minutes of effortless, weightless floating in a peaceful private setting, designed to release everyday tension, calm the mind, and promote deep relaxation. Complete your experience with a refreshing post-float shower, leaving you feeling balanced, restored, and renewed."
+      },
+      {
         title: "RED-LIGHT THERAPY – START-UP SESSION",
         isNew: true,
         durations: [
@@ -1257,6 +1311,60 @@ const data = {
     ],
     Technologies: [
       {
+        title: "InstaGlow Deluxe Facial",
+        comingSoon: true,  // ← isNew: true əvəzinə
+        durations: [
+          { time: "90 minutes", price: "1200 SAR" },
+        ],
+        short: "Focus: Regeneration, Appearance",
+        full: "An exquisite, fully customised facial experience featuring a curated selection of advanced InstaGlow handpieces, tailored to your skin’s unique needs. Deep cleansing, intensive hydration and targeted firming technologies are complemented by LED light therapy and a bespoke mask, leaving the complexion feeling replenished, visibly radiant and beautifully refreshed."
+      },
+      {
+        title: "InstaGlow Signature Facial",
+        comingSoon: true,  // ← isNew: true əvəzinə
+        durations: [
+          { time: "60 minutes", price: "750 SAR" },
+        ],
+        short: "Focus: Regeneration, Appearance",
+        full: "A bespoke facial pairing deep cleansing and refining exfoliation with targeted technologies to enhance hydration and the appearance of firmness. A mask tailored to your skin’s needs adds the finishing touch for a smoother, more lifted-looking complexion and a refined glow."
+      },
+      {
+        title: "InstaGlow Express Facial",
+        comingSoon: true,  // ← isNew: true əvəzinə
+        durations: [
+          { time: "30 minutes", price: "450 SAR" },
+        ],
+        short: "Focus: Regeneration, Appearance",
+        full: "A refreshing radiance ritual combining cleansing, gentle exfoliation and hydrating infusion to revive tired-looking skin. A mask selected for your skin type completes the experience, leaving the complexion feeling soft, refreshed and beautifully luminous."
+      },
+      {
+        title: "Hydrotherapy Thermal Rest",
+        isNew: true,
+        durations: [
+          { time: "90 minutes", price: "850 SAR" },
+        ],
+        short: "Focus: Peak Performance, Regeneration, Appearance",
+        full: "Begin your wellness journey with the invigorating Caracalla hydrotherapy experience, followed by a refreshing Scottish shower, before transitioning into the peaceful weightlessness of a private DreamPod float. This 90-minute water and float ritual combines revitalizing hydrotherapy with deep relaxation, designed to ease tension, calm the mind, restore balance, and leave you feeling refreshed and renewed."
+      },
+      {
+        title: "DreamPod Signature",
+        isNew: true,
+        durations: [
+          { time: "60 minutes", price: "600 SAR" },
+        ],
+        short: "Focus: Peak Performance, Regeneration",
+        full: "Enjoy 60 minutes of private, weightless floating designed to help you disconnect from daily demands and experience deep relaxation. Personalize your journey with complete darkness and silence or soft lighting and soothing music, allowing the peaceful stillness to calm your mind, ease tension, and leave you feeling deeply rested, restored, and renewed."
+      },
+      {
+        title: "DreamPod Experience",
+        isNew: true,
+        durations: [
+          { time: "30 minutes", price: "350 SAR" },
+        ],
+        short: "Focus: Peak Performance, Regeneration",
+        full: "Begin your journey with a refreshing shower before immersing yourself in the DreamPod’s mineral-rich water. Enjoy 30 minutes of effortless, weightless floating in a peaceful private setting, designed to release everyday tension, calm the mind, and promote deep relaxation. Complete your experience with a refreshing post-float shower, leaving you feeling balanced, restored, and renewed."
+      },
+      {
         title: "RED-LIGHT THERAPY – START-UP SESSION",
         isNew: true,
         durations: [
@@ -1731,7 +1839,11 @@ function buildCards() {
       <div class="card-header header-row">
 
         <div class="title-wrap-column">
-          ${item.isNew ? '<span class="new-badge-top">NEW</span>' : ''}
+          ${item.comingSoon
+        ? '<span class="new-badge-top coming-soon">COMING SOON</span>'
+        : item.isNew
+          ? '<span class="new-badge-top">NEW</span>'
+          : ''}
           <strong class="card-title">${item.title}</strong>
         </div>
 
@@ -1840,14 +1952,14 @@ function preloadImages() {
     "menu/Treatment2.webp",
     "menu/tresament2.webp",
     "menu/Technology.webp",
-    "menu/needtochange.png",
+    "menu/Mreception.png",
     "menu/Nail.webp",
     "menu/corridor.webp",
     "menu/Treatment2.webp",
     "menu/tresament2.webp",
     "menu/Technology.webp",
-    "menu/needtochange.png",
-    "menu/needtochange.png",
+    "menu/Barber.png",
+    "menu/Nail.png",
     // "bg/gentlemen-nail.webp"
   ];
 
